@@ -1,0 +1,740 @@
+question,answer,predicted_kg_response,predicted_qa_response
+What is AC Milan's home ground?,San Siro is AC Milan's home ground.,San Siro,San Siro
+What is the capacity of San Siro?,"San Siro has a capacity of 80,018.","80,018","80,018"
+Who is AC Milan's chairman?,Paolo Scaroni is AC Milan's chairman.,Paolo Scaroni,Paolo Scaroni
+Who is the coach of AC Milan?,Gennaro Gattuso is the coach of AC Milan.,Gennaro Gattuso,Gennaro Gattuso
+Who is Davide Calabria?,Davide Calabria is a defender for AC Milan.,A defender for AC Milan,A defender for AC Milan
+What position does Davide Calabria play?,Davide Calabria plays as a defender.,Defender,Defender
+How many goals has Davide Calabria scored?,Davide Calabria has scored 2 goals.,2,2
+How many caps does Davide Calabria have?,Davide Calabria has 64 caps.,64,64
+How old is Davide Calabria?,Davide Calabria is 23 years old.,23,23
+What jersey number does Davide Calabria wear?,Davide Calabria wears jersey number 2.,2,2
+How height is Davide Calabria?,Davide Calabria is 1.77 meters height.,1.77 meters,1.77 meters
+Who is Jose Mauri?,Jose Mauri is a midfielder for AC Milan.,A midfielder for AC Milan,A midfielder for AC Milan
+What position does Giacomo Bonaventura play?,Jose Mauri plays as a midfielder.,Midfielder,Midfielder
+How many goals has Jose Mauri scored?,Jose Mauri has scored 0 goals.,0,0
+How many caps does Jose Mauri have?,Jose Mauri has 10 caps.,10,10
+How old is Jose Mauri?,Jose Mauri is 23 years old.,23,23
+What jersey number does Jose Mauri wear?,Jose Mauri wears jersey number 4.,4,4
+How height is Jose Mauri?,Jose Mauri is 1.69 meters height.,1.69 meters,1.69 meters
+Who is Giacomo Bonaventura?,Giacomo Bonaventura is a midfielder for AC Milan.,A midfielder for AC Milan,A midfielder for AC Milan
+What position does Giacomo Bonaventura play?,Giacomo Bonaventura plays as a midfielder.,Midfielder,Midfielder
+How many goals has Giacomo Bonaventura scored?,Giacomo Bonaventura has scored 27 goals.,27,27
+How many caps does Giacomo Bonaventura have?,Giacomo Bonaventura has 126 caps.,126,126
+How old is Giacomo Bonaventura?,Giacomo Bonaventura is 30 years old.,30,30
+What jersey number does Giacomo Bonaventura wear?,Giacomo Bonaventura wears jersey number 5.,5,5
+How height is Giacomo Bonaventura?,Giacomo Bonaventura is 1.80 meters height.,1.80 meters,1.80 meters
+Who is Samu Castillejo?,Samu Castillejo is a forward for AC Milan.,A forward for AC Milan,A forward for AC Milan
+What position does Samu Castillejo play?,Samu Castillejo plays as a forward.,Forward,Forward
+How many goals has Samu Castillejo scored?,Samu Castillejo has scored 3 goals.,3,3
+How many caps does Samu Castillejo have?,Samu Castillejo has 25 caps.,25,25
+How old is Samu Castillejo?,Samu Castillejo is 24 years old.,24,none
+What jersey number does Samu Castillejo wear?,Samu Castillejo wears jersey number 7.,7,7
+How height is Samu Castillejo?,Samu Castillejo is 1.82 meters height.,1.82 meters,1.82 meters
+Who is Suso?,Suso is a forward for AC Milan.,A forward for AC Milan,A forward for AC Milan
+What position does Suso play?,Suso plays as a forward.,Forward,Forward
+How many goals has Suso scored?,Suso has scored 18 goals.,18,18
+How many caps does Suso have?,Suso has 102 caps.,102,102
+How old is Suso?,Suso is 26 years old.,26,26
+What jersey number does Suso wear?,Suso wears jersey number 8.,8,8
+How height is Suso?,Suso is 1.77 meters height.,1.77 meters,1.77 meters
+Who is Hakan Calhanoglu?,Hakan Calhanoglu is a forward for AC Milan.,A forward for AC Milan,A forward for AC Milan
+What position does Hakan Calhanoglu play?,Hakan Calhanoglu plays as a forward.,Forward,Forward
+How many goals has Hakan Calhanoglu scored?,Hakan Calhanoglu has scored 7 goals.,7,7
+How many caps does Hakan Calhanoglu have?,Hakan Calhanoglu has 59 caps.,59,59
+How old is Hakan Calhanoglu?,Hakan Calhanoglu is 25 years old.,25,25
+What jersey number does Hakan Calhanoglu wear?,Hakan Calhanoglu wears jersey number 10.,10,10
+How height is Hakan Calhanoglu?,Hakan Calhanoglu is 1.78 meters height.,1.78 meters,1.78 meters
+Who is Fabio Borini?,Fabio Borini is a forward for AC Milan.,A forward for AC Milan,A forward for AC Milan
+What position does Fabio Borini play?,Fabio Borini plays as a forward.,Forward,Forward
+How many goals has Fabio Borini scored?,Fabio Borini has scored 1 goal.,1,1
+How many caps does Fabio Borini have?,Fabio Borini has 12 caps.,12,12
+How old is Fabio Borini?,Fabio Borini is 28 years old.,28,28
+What jersey number does Fabio Borini wear?,Fabio Borini wears jersey number 11.,11,11
+How height is Fabio Borini?,Fabio Borini is 1.80 meters height.,1.80 meters,1.80 meters
+Who is Andrea Conti?,Andrea Conti is a defender for AC Milan.,A defender for AC Milan,A defender for AC Milan
+What position does Andrea Conti play?,Andrea Conti plays as a defender.,Defender,Defender
+How many goals has Andrea Conti scored?,Andrea Conti has scored 0 goals.,0,0
+How many caps does Andrea Conti have?,Andrea Conti has 10 caps.,10,10
+How old is Andrea Conti?,Andrea Conti is 25 years old.,25,25
+What jersey number does Andrea Conti wear?,Andrea Conti wears jersey number 12.,12,12
+How height is Andrea Conti?,Andrea Conti is 1.84 meters height.,1.84 meters,1.84 meters
+Who is Alessio Romagnoli?,Alessio Romagnoli is a defender for AC Milan.,A defender for AC Milan,A defender for AC Milan
+What position does Alessio Romagnoli play?,Alessio Romagnoli plays as a defender.,Defender,Defender
+How many goals has Alessio Romagnoli scored?,Alessio Romagnoli has scored 5 goals.,5,5
+How many caps does Alessio Romagnoli have?,Alessio Romagnoli has 114 caps.,114,114
+How old is Alessio Romagnoli?,Alessio Romagnoli is 24 years old.,24,24
+What jersey number does Alessio Romagnoli wear?,Alessio Romagnoli wears jersey number 13.,13,13
+How height is Alessio Romagnoli?,Alessio Romagnoli is 1.88 meters height.,1.88 meters,1.88 meters
+Who is Tiemoue Bakayoko?,Tiemoue Bakayoko is a midfielder for AC Milan.,A midfielder for AC Milan,A midfielder for AC Milan
+What position does Tiemoue Bakayoko play?,Tiemoue Bakayoko plays as a midfielder.,Midfielder,Midfielder
+How many goals has Tiemoue Bakayoko scored?,Tiemoue Bakayoko has scored 1 goal.,1,1
+How many caps does Tiemoue Bakayoko have?,Tiemoue Bakayoko has 24 caps.,24,24
+How old is Tiemoue Bakayoko?,Tiemoue Bakayoko is 25 years old.,25,25
+What jersey number does Tiemoue Bakayoko wear?,Tiemoue Bakayoko wears jersey number 14.,14,14
+How height is Tiemoue Bakayoko?,Tiemoue Bakayoko is 1.89 meters height.,1.89 meters,1.89 meters
+Who is Andrea Bertolacci?,Andrea Bertolacci is a midfielder for AC Milan.,A midfielder for AC Milan,A midfielder for AC Milan
+What position does Andrea Bertolacci play?,Andrea Bertolacci plays as a midfielder.,Midfielder,Midfielder
+How many goals has Andrea Bertolacci scored?,Andrea Bertolacci has scored 2 goals.,2,2
+How many caps does Andrea Bertolacci have?,Andrea Bertolacci has 44 caps.,44,44
+How old is Andrea Bertolacci?,Andrea Bertolacci is 28 years old.,28,28
+What jersey number does Andrea Bertolacci wear?,Andrea Bertolacci wears jersey number 16.,16,16
+How height is Andrea Bertolacci?,Andrea Bertolacci is 1.79 meters height.,1.79 meters,1.79 meters
+Who is Cristian Zapata?,Cristian Zapata is a defender for AC Milan.,A defender for AC Milan,A defender for AC Milan
+What position does Cristian Zapata play?,Cristian Zapata plays as a defender.,Defender,Defender
+How many goals has Cristian Zapata scored?,Cristian Zapata has scored 3 goals.,3,3
+How many caps does Cristian Zapata have?,Cristian Zapata has 108 caps.,108,108
+How old is Cristian Zapata?,Cristian Zapata is 33 years old.,33,33
+What jersey number does Cristian Zapata wear?,Cristian Zapata wears jersey number 17.,17,17
+How height is Cristian Zapata?,Cristian Zapata is 1.87 meters height.,1.87 meters,1.87 meters
+Who is Riccardo Montolivo?,Riccardo Montolivo is a midfielder for AC Milan.,A midfielder for AC Milan,A midfielder for AC Milan
+What position does Riccardo Montolivo play?,Riccardo Montolivo plays as a midfielder.,Midfielder,Midfielder
+How many goals has Riccardo Montolivo scored?,Riccardo Montolivo has scored 8 goals.,8,8
+How many caps does Riccardo Montolivo have?,Riccardo Montolivo has 129 caps.,129,129
+How old is Riccardo Montolivo?,Riccardo Montolivo is 34 years old.,34,34
+What jersey number does Riccardo Montolivo wear?,Riccardo Montolivo wears jersey number 18.,18,18
+How height is Riccardo Montolivo?,Riccardo Montolivo is 1.82 meters height.,1.82 meters,1.82 meters
+Who is Krzysztof Piatek?,Krzysztof Piatek is a forward for AC Milan.,A forward for AC Milan,A forward for AC Milan
+What position does Krzysztof Piatek play?,Krzysztof Piatek plays as a forward.,Forward,Forward
+How many goals has Krzysztof Piatek scored?,Krzysztof Piatek has scored 7 goals.,7,7
+How many caps does Krzysztof Piatek have?,Krzysztof Piatek has 10 caps.,10,10
+How old is Krzysztof Piatek?,Krzysztof Piatek is 24 years old.,24,24
+What jersey number does Krzysztof Piatek wear?,Krzysztof Piatek wears jersey number 19.,19,19
+How height is Krzysztof Piatek?,Krzysztof Piatek is 1.83 meters height.,1.83m,1.83m
+Who is Ignazio Abate?,Ignazio Abate is a defender for AC Milan.,Defender,Defender
+What position does Ignazio Abate play?,Ignazio Abate plays as a defender.,Defender,Defender
+How many goals has Ignazio Abate scored?,Ignazio Abate has scored 3 goals.,3,3
+How many caps does Ignazio Abate have?,Ignazio Abate has 239 caps.,239,239
+How old is Ignazio Abate?,Ignazio Abate is 33 years old.,33,33
+What jersey number does Ignazio Abate wear?,Ignazio Abate wears jersey number 20.,20,20
+How height is Ignazio Abate?,Ignazio Abate is 1.80 meters height.,1.80m,1.80m
+Who is Lucas Biglia?,Lucas Biglia is a midfielder for AC Milan.,Midfielder,Midfielder
+What position does Lucas Biglia play?,Lucas Biglia plays as a midfielder.,Midfielder,Midfielder
+How many goals has Lucas Biglia scored?,Lucas Biglia has scored 2 goals.,2,2
+How many caps does Lucas Biglia have?,Lucas Biglia has 42 caps.,42,42
+How old is Lucas Biglia?,Lucas Biglia is 33 years old.,33,33
+What jersey number does Lucas Biglia wear?,Lucas Biglia wears jersey number 21.,21,21
+How height is Lucas Biglia?,Lucas Biglia is 1.78 meters height.,1.78m,1.78m
+Who is Mateo Musacchio?,Mateo Musacchio is a defender for AC Milan.,Defender,Defender
+What position does Mateo Musacchio play?,Mateo Musacchio plays as a defender.,Defender,Defender
+How many goals has Mateo Musacchio scored?,Mateo Musacchio has scored 1 goal,1,1
+What is the name of Arsenal's home ground?,Arsenal's home ground is the Emirates Stadium.,Emirates Stadium,Emirates Stadium
+What is the capacity of the Emirates Stadium?,"The Emirates Stadium has a capacity of 60,260.","60,260","60,260"
+Who is the chairman of Arsenal Football Club?,The chairman of Arsenal is Sir Chips Keswick.,Sir Chips Keswick,Sir Chips Keswick
+Who was the coach of Arsenal before Mikel Arteta?,Unai Emery was the coach of Arsenal.,Unai Emery,Unai Emery
+Which player plays as a goalkeeper for Arsenal?,Bernd Leno is Arsenal's goalkeeper.,Bernd Leno,Bernd Leno
+What is Bernd Leno's position on the field?,Bernd Leno plays as a goalkeeper.,Goalkeeper,Goalkeeper
+How many goals has Bernd Leno scored for Arsenal?,Bernd Leno has scored 0 goals for Arsenal.,0,0
+How many caps  does Bernd Leno have?,Bernd Leno has 32 caps.,32,32
+When was Bernd Leno date of birth?,"Bernd Leno was date of birth on March 4, 1992.","March 4, 1992","March 4, 1992"
+What jersey number does Bernd Leno wear?,Bernd Leno wears jersey number 1.,1,1
+How height is Bernd Leno?,Bernd Leno is 1.90 meters height.,1.90m,1.90m
+Who is the defender playing for Arsenal?,Hector Bellerin is a defender for Arsenal.,Hector Bellerin,Hector Bellerin
+How many goals has Hector Bellerin scored for Arsenal?,Hector Bellerin has scored 6 goals.,6,6
+How many caps  does Hector Bellerin have?,Hector Bellerin has 143 caps.,143,143
+When was Hector Bellerin date of birth?,"Hector Bellerin was date of birth on March 19, 1995.","March 19, 1995","March 19, 1995"
+What jersey number does Hector Bellerin wear?,Hector Bellerin wears jersey number 2.,2,2
+How height is Hector Bellerin?,Hector Bellerin is 1.78 meters height.,1.78m,1.78m
+Who is the midfielder in the Arsenal squad?,Mohamed Elneny plays as a midfielder for Arsenal.,Mohamed Elneny,Mohamed Elneny
+How many goals has Mohamed Elneny scored for Arsenal?,Mohamed Elneny has scored 0 goals.,0,0
+How many caps  does Mohamed Elneny have?,Mohamed Elneny has 46 caps.,46,46
+When was Mohamed Elneny date of birth?,"Mohamed Elneny was date of birth on July 11, 1992.","July 11, 1992","July 11, 1992"
+What jersey number does Mohamed Elneny wear?,Mohamed Elneny wears jersey number 4.,4,4
+How height is Mohamed Elneny?,Mohamed Elneny is 1.80 meters height.,1.80m,1.80m
+Who is another defender in the Arsenal squad?,Sokratis Papastathopoulos is a defender for Arsenal.,Sokratis Papastathopoulos,Sokratis Papastathopoulos
+How many goals has Sokratis Papastathopoulos scored for Arsenal?,Sokratis Papastathopoulos has scored 1 goal.,1,1
+How many caps  does Sokratis Papastathopoulos have?,Sokratis Papastathopoulos has 25 caps.,25,25
+When was Sokratis Papastathopoulos date of birth?,"Sokratis Papastathopoulos was date of birth on June 9, 1988.","June 9, 1988","June 9, 1988"
+What jersey number does Sokratis Papastathopoulos wear?,Sokratis Papastathopoulos wears jersey number 5.,5,5
+How height is Sokratis Papastathopoulos?,Sokratis Papastathopoulos is 1.86 meters height.,1.86m,1.86m
+Who is a well-known French defender for Arsenal?,Laurent Koscielny is a well-known French defender for Arsenal.,Laurent Koscielny,Laurent Koscielny
+How many goals has Laurent Koscielny scored for Arsenal?,Laurent Koscielny has scored 22 goals.,22,22
+How many caps  does Laurent Koscielny have?,Laurent Koscielny has 255 caps.,255,255
+When was Laurent Koscielny date of birth?,"Laurent Koscielny was date of birth on September 10, 1985.","September 10, 1985","September 10, 1985"
+What jersey number does Laurent Koscielny wear?,Laurent Koscielny wears jersey number 6.,6,6
+How height is Laurent Koscielny?,Laurent Koscielny is 1.86 meters height.,1.86m,1.86m
+Who is a midfielder from Armenia playing for Arsenal?,Henrikh Mkhitaryan is a midfielder from Armenia who plays for Arsenal.,Henrikh Mkhitaryan,Henrikh Mkhitaryan
+How many goals has Henrikh Mkhitaryan scored for Arsenal?,Henrikh Mkhitaryan has scored 8 goals.,8,8
+How many caps  does Henrikh Mkhitaryan have?,Henrikh Mkhitaryan has 36 caps.,36,36
+When was Henrikh Mkhitaryan date of birth?,"Henrikh Mkhitaryan was date of birth on January 21, 1989.","January 21, 1989","January 21, 1989"
+What jersey number does Henrikh Mkhitaryan wear?,Henrikh Mkhitaryan wears jersey number 7.,7,7
+How height is Henrikh Mkhitaryan?,Henrikh Mkhitaryan is 1.77 meters height.,1.77m,1.77m
+Who is the forward in Arsenal's lineup?,Alexandre Lacazette is a forward for Arsenal.,Alexandre Lacazette,Alexandre Lacazette
+How many goals has Alexandre Lacazette scored for Arsenal?,Alexandre Lacazette has scored 27 goals.,27,27
+How many caps  does Alexandre Lacazette have?,Alexandre Lacazette has 67 caps.,67,67
+When was Alexandre Lacazette date of birth?,"Alexandre Lacazette was date of birth on May 28, 1991.","May 28, 1991","May 28, 1991"
+What jersey number does Alexandre Lacazette wear?,Alexandre Lacazette wears jersey number 9.,9,9
+How height is Alexandre Lacazette?,Alexandre Lacazette is 1.75 meters height.,1.75m,1.75m
+Who is a German midfielder playing for Arsenal?,Mesut Ozil is a German midfielder playing for Arsenal.,Mesut Ozil,Mesut Ozil
+How many goals has Mesut Ozil scored for Arsenal?,Mesut Ozil has scored 32 goals.,32,32
+How many caps  does Mesut Ozil have?,Mesut Ozil has 166 caps.,166,166
+When was Mesut Ozil date of birth?,"Mesut Ozil was date of birth on October 15, 1988.","October 15, 1988","October 15, 1988"
+What jersey number does Mesut Ozil wear?,Mesut Ozil wears jersey number 10.,10,10
+How height is Mesut Ozil?,Mesut Ozil is 1.83 meters height.,1.83m,1.83m
+Who is a Uruguayan midfielder in Arsenal's squad?,Lucas Torreira is a Uruguayan midfielder in Arsenal's squad.,Lucas Torreira,Lucas Torreira
+How many goals has Lucas Torreira scored for Arsenal?,Lucas Torreira has scored 2 goals.,2,2
+How many caps  does Lucas Torreira have?,Lucas Torreira has 34 caps.,34,34
+When was Lucas Torreira date of birth?,Lucas Torreira was date of birth on February,February,February
+What is the name of Atletico Madrid's home ground?,Atletico Madrid's home ground is the Wanda Metropolitano.,Wanda Metropolitano,Wanda Metropolitano
+What is the capacity of the Wanda Metropolitano?,"The Wanda Metropolitano has a capacity of 67,703.","67,703","67,703"
+Who is the chairman of Atletico Madrid?,The chairman of Atletico Madrid is Enrique Cerezo.,Enrique Cerezo,Enrique Cerezo
+Who is the head coach of Atletico Madrid?,The head coach of Atletico Madrid is Diego Simeone.,Diego Simeone,Diego Simeone
+Which player plays as a defender for Atletico Madrid?,Jose Gimenez is a defender for Atletico Madrid.,Jose Gimenez,Jose Gimenez
+What is Jose Gimenez's position on the field?,Jose Gimenez plays as a defender.,Defender,Defender
+How many goals has Jose Gimenez scored for Atletico Madrid?,Jose Gimenez has scored 3 goals.,3,3
+How many caps  does Jose Gimenez have?,Jose Gimenez has 109 caps.,109,109
+When was Jose Gimenez date of birth?,"Jose Gimenez was date of birth on January 20, 1995.","January 20, 1995","January 20, 1995"
+What jersey number does Jose Gimenez wear?,Jose Gimenez wears jersey number 2.,2,2
+How height is Jose Gimenez?,Jose Gimenez is 1.85 meters height.,1.85m,1.85m
+Who is another defender in Atletico Madrid's squad?,Santiago Arias is another defender for Atletico Madrid.,Santiago Arias,Santiago Arias
+How many goals has Santiago Arias scored for Atletico Madrid?,Santiago Arias has scored 1 goal.,1,1
+How many caps  does Santiago Arias have?,Santiago Arias has 25 caps.,25,25
+When was Santiago Arias date of birth?,"Santiago Arias was date of birth on January 13, 1992.","January 13, 1992","January 13, 1992"
+What jersey number does Santiago Arias wear?,Santiago Arias wears jersey number 4.,4,4
+How height is Santiago Arias?,Santiago Arias is 1.78 meters height.,1.78m,1.78m
+Who is a midfielder in the Atletico Madrid squad?,Thomas Partey is a midfielder in the Atletico Madrid squad.,Thomas Partey,Thomas Partey
+How many goals has Thomas Partey scored for Atletico Madrid?,Thomas Partey has scored 9 goals.,9,9
+How many caps  does Thomas Partey have?,Thomas Partey has 94 caps.,94,94
+When was Thomas Partey date of birth?,"Thomas Partey was date of birth on June 13, 1993.","June 13, 1993","June 13, 1993"
+What jersey number does Thomas Partey wear?,Thomas Partey wears jersey number 5.,5,5
+How height is Thomas Partey?,Thomas Partey is 1.85 meters height.,1.85m,1.85m
+Who is another midfielder in the Atletico Madrid squad?,Koke is another midfielder for Atletico Madrid.,Koke,Koke
+How many goals has Koke scored for Atletico Madrid?,Koke has scored 31 goals.,31,31
+How many caps  does Koke have?,Koke has 285 caps.,285,285
+When was Koke date of birth?,"Koke was date of birth on January 8, 1992.","January 8, 1992","January 8, 1992"
+What jersey number does Koke wear?,Koke wears jersey number 6.,6,6
+How height is Koke?,Koke is 1.76 meters height.,1.76m,1.76m
+Who is a forward in the Atletico Madrid lineup?,Alvaro Morata is a forward for Atletico Madrid.,Alvaro Morata,Alvaro Morata
+How many goals has Alvaro Morata scored for Atletico Madrid?,Alvaro Morata has scored 6 goals.,6,6
+How many caps  does Alvaro Morata have?,Alvaro Morata has 15 caps.,15,15
+When was Alvaro Morata date of birth?,"Alvaro Morata was date of birth on October 23, 1992.","October 23, 1992","October 23, 1992"
+What jersey number does Alvaro Morata wear?,Alvaro Morata wears jersey number 9.,9,9
+How height is Alvaro Morata?,Alvaro Morata is 1.89 meters height.,1.89m,1.89m
+Who is another forward in Atletico Madrid's squad?,Angel Correa is another forward for Atletico Madrid.,Angel Correa,Angel Correa
+How many goals has Angel Correa scored for Atletico Madrid?,Angel Correa has scored 20 goals.,20,20
+How many caps  does Angel Correa have?,Angel Correa has 130 caps.,130,130
+When was Angel Correa date of birth?,"Angel Correa was date of birth on March 9, 1995.","March 9, 1995","March 9, 1995"
+What jersey number does Angel Correa wear?,Angel Correa wears jersey number 10.,10,10
+How height is Angel Correa?,Angel Correa is 1.71 meters height.,1.71m,1.71m
+Who is another midfielder in the Atletico Madrid squad?,Thomas Lemar is another midfielder for Atletico Madrid.,Thomas Lemar,Thomas Lemar
+How many goals has Thomas Lemar scored for Atletico Madrid?,Thomas Lemar has scored 3 goals.,3,3
+How many caps  does Thomas Lemar have?,Thomas Lemar has 31 caps.,31,31
+When was Thomas Lemar date of birth?,"Thomas Lemar was date of birth on November 12, 1995.","November 12, 1995","November 12, 1995"
+What jersey number does Thomas Lemar wear?,Thomas Lemar wears jersey number 11.,11,11
+How height is Thomas Lemar?,Thomas Lemar is 1.72 meters height.,1.72m,1.72m
+Who is the goalkeeper for Atletico Madrid?,Jan Oblak is the goalkeeper for Atletico Madrid.,Jan Oblak,Jan Oblak
+How many goals has Jan Oblak scored for Atletico Madrid?,Jan Oblak has scored 0 goals.,0,0
+How many caps  does Jan Oblak have?,Jan Oblak has 153 caps.,153,153
+When was Jan Oblak date of birth?,"Jan Oblak was date of birth on January 7, 1993.","January 7, 1993","January 7, 1993"
+What jersey number does Jan Oblak wear?,Jan Oblak wears jersey number 13.,13,13
+How height is Jan Oblak?,Jan Oblak is 1.88 meters height.,1.88m,1.88m
+Who is another defender in Atletico Madrid's squad?,Stefan Savic is another defender for Atletico Madrid.,Stefan Savic,Stefan Savic
+How many goals has Stefan Savic scored for Atletico Madrid?,Stefan Savic has scored 1 goal.,1,1
+How many caps  does Stefan Savic have?,Stefan Savic has 89 caps.,89,89
+When was Stefan Savic date of birth?,"Stefan Savic was date of birth on January 8, 1991.","January 8, 1991","January 8, 1991"
+What jersey number does Stefan Savic wear?,Stefan Savic wears jersey number 15.,15,15
+How height is Stefan Savic?,Stefan Savic is 1.87 meters height,1.87m,1.87m
+What is the name of Barcelona's home ground?,Barcelona's home ground is the Camp Nou.,Camp Nou,Camp Nou
+What is the capacity of Camp Nou?,"Camp Nou has a capacity of 99,354.","99,354","99,354"
+Who is the chairman of Barcelona?,The chairman of Barcelona is Josep Maria Bartomeu.,Josep Maria Bartomeu,Josep Maria Bartomeu
+Who is the head coach of Barcelona?,The head coach of Barcelona is Ernesto Valverde.,Ernesto Valverde,Ernesto Valverde
+Which player plays as a goalkeeper for Barcelona?,Marc-Andre ter Stegen is a goalkeeper for Barcelona.,Marc-Andre ter Stegen,Marc-Andre ter Stegen
+What is Marc-Andre ter Stegen's position on the field?,Marc-Andre ter Stegen plays as a goalkeeper.,Goalkeeper,Goalkeeper
+How many goals has Marc-Andre ter Stegen scored for Barcelona?,Marc-Andre ter Stegen has scored 0 goals.,0,0
+How many caps  does Marc-Andre ter Stegen have?,Marc-Andre ter Stegen has 115 caps.,115,115
+When was Marc-Andre ter Stegen date of birth?,"Marc-Andre ter Stegen was date of birth on April 30, 1992.","April 30, 1992","April 30, 1992"
+What jersey number does Marc-Andre ter Stegen wear?,Marc-Andre ter Stegen wears jersey number 1.,1,1
+How height is Marc-Andre ter Stegen?,Marc-Andre ter Stegen is 1.87 meters height.,1.87m,1.87m
+Who is another defender in Barcelona's squad?,Nelson Semedo is another defender for Barcelona.,Nelson Semedo,Nelson Semedo
+How many goals has Nelson Semedo scored for Barcelona?,Nelson Semedo has scored 1 goal.,1,1
+How many caps  does Nelson Semedo have?,Nelson Semedo has 50 caps.,50,50
+When was Nelson Semedo date of birth?,"Nelson Semedo was date of birth on November 16, 1993.","November 16, 1993","November 16, 1993"
+What jersey number does Nelson Semedo wear?,Nelson Semedo wears jersey number 2.,2,2
+How height is Nelson Semedo?,Nelson Semedo is 1.77 meters height.,1.77m,1.77m
+Who is a defender in Barcelona's squad with a high number of caps?,Gerard Pique is a defender in Barcelona's squad with 311 caps.,Gerard Pique,Gerard Pique
+How many goals has Gerard Pique scored for Barcelona?,Gerard Pique has scored 27 goals.,27,27
+When was Gerard Pique date of birth?,"Gerard Pique was date of birth on February 2, 1987.","February 2, 1987","February 2, 1987"
+What jersey number does Gerard Pique wear?,Gerard Pique wears jersey number 3.,3,3
+How height is Gerard Pique?,Gerard Pique is 1.94 meters height.,1.94m,1.94m
+Who is a midfielder in Barcelona's squad with a significant number of caps?,Sergio Busquets is a midfielder in Barcelona's squad with 346 caps.,Sergio Busquets,Sergio Busquets
+How many goals has Sergio Busquets scored for Barcelona?,Sergio Busquets has scored 7 goals.,7,7
+When was Sergio Busquets date of birth?,"Sergio Busquets was date of birth on July 16, 1988.","July 16, 1988","July 16, 1988"
+What jersey number does Sergio Busquets wear?,Sergio Busquets wears jersey number 5.,5,5
+How height is Sergio Busquets?,Sergio Busquets is 1.89 meters height.,1.89m,1.89m
+Who is another midfielder in Barcelona's squad?,Philippe Coutinho is another midfielder for Barcelona.,Philippe Coutinho,Philippe Coutinho
+How many goals has Philippe Coutinho scored for Barcelona?,Philippe Coutinho has scored 13 goals.,13,13
+How many caps  does Philippe Coutinho have?,Philippe Coutinho has 51 caps.,51,51
+When was Philippe Coutinho date of birth?,"Philippe Coutinho was date of birth on June 12, 1992.","June 12, 1992","June 12, 1992"
+What jersey number does Philippe Coutinho wear?,Philippe Coutinho wears jersey number 7.,7,7
+How height is Philippe Coutinho?,Philippe Coutinho is 1.72 meters height.,1.72m,1.72m
+Who is another midfielder in Barcelona's squad?,Arthur is another midfielder for Barcelona.,Arthur,Arthur
+How many caps  does Arthur have?,Arthur has 27 caps.,27,27
+When was Arthur date of birth?,"Arthur was date of birth on August 12, 1996.","August 12, 1996","August 12, 1996"
+What jersey number does Arthur wear?,Arthur wears jersey number 8.,8,8
+How height is Arthur?,Arthur is 1.71 meters height.,1.71m,1.71m
+Who is a forward in the Barcelona squad?,Luis Suarez is a forward in the Barcelona squad.,Luis Suarez,Luis Suarez
+How many goals has Luis Suarez scored for Barcelona?,Luis Suarez has scored 131 goals.,131,131
+When was Luis Suarez date of birth?,"Luis Suarez was date of birth on January 24, 1987.","January 24, 1987","January 24, 1987"
+What jersey number does Luis Suarez wear?,Luis Suarez wears jersey number 9.,9,9
+How height is Luis Suarez?,Luis Suarez is 1.82 meters height.,1.82m,1.82m
+Who is another forward in Barcelona's squad with a high number of goals?,Lionel Messi is another forward in Barcelona's squad with 419 goals.,Lionel Messi,Lionel Messi
+How many caps  does Lionel Messi have?,Lionel Messi has 452 caps.,452,452
+When was Lionel Messi date of birth?,"Lionel Messi was date of birth on June 24, 1987.","June 24, 1987","June 24, 1987"
+What jersey number does Lionel Messi wear?,Lionel Messi wears jersey number 10.,10,10
+How height is Lionel Messi?,Lionel Messi is 1.70 meters height.,1.70m,1.70m
+Who is another forward in Barcelona's squad?,Ousmane Dembele is another forward for Barcelona.,Ousmane Dembele,Ousmane Dembele
+How many goals has Ousmane Dembele scored for Barcelona?,Ousmane Dembele has scored 11 goals.,11,11
+How many caps  does Ousmane Dembele have?,Ousmane Dembele has 46 caps.,46,46
+When was Ousmane Dembele date of birth?,"Ousmane Dembele was date of birth on May 15, 1997.","May 15, 1997","May 15, 1997"
+What jersey number does Ousmane Dembele wear?,Ousmane Dembele wears jersey number 11.,11,11
+How height is Ousmane Dembele?,Ousmane Dembele is 1.78 meters height.,1.78m,1.78m
+Who is another midfielder in Barcelona's squad?,Rafinha is another midfielder for Barcelona.,Rafinha,Rafinha
+How many goals has Rafinha scored for Barcelona?,Rafinha has scored 8 goals.,8,8
+How many caps  does Rafinha have?,Rafinha has 53 caps.,53,53
+When was Rafinha date of birth?,"Rafinha was date of birth on February 12, 1993.","February 12, 1993","February 12, 1993"
+What jersey number does Rafinha wear?,Rafinha wears jersey number 12.,12,12
+How height is Rafinha?,Rafinha is 1.74 meters height.,1.74m,1.74m
+Who is another forward in Barcelona's squad?,Malcom is another forward for Barcelona.,Malcom,Malcom
+How many goals has Malcom scored for Barcelona?,Malcom has scored 1 goal.,1,1
+How many caps  does Malcom have?,Malcom has 15 caps.,15,15
+When was Malcom date of birth?,"Malcom was date of birth on February 26, 1997.","February 26, 1997","February 26, 1997"
+What jersey number does Malcom wear?,Malcom wears jersey number 14.,14,14
+How height is Malcom?,Malcom is 1.72 meters height.,1.72m,1.72m
+Who is another defender in Barcelona's squad?,Clement Lenglet is another defender for Barcelona.,Clement,Clement
+How many goals has Clement Lenglet scored for Barcelona?,Clement Lenglet has scored 1 goal.,1,1
+How many caps  does Clement Lenglet have?,Clement Lenglet has 23 caps.,23,23
+When was Clement Lenglet date of birth?,"Clement Lenglet was date of birth on June 17, 1995.","June 17, 1995","June 17, 1995"
+What jersey number does Clement Lenglet wear?,Clement Lenglet wears jersey number 15.,15,15
+How height is Clement Lenglet?,Clement Lenglet is 1.86 meters height.,1.86m,1.86m
+Who is another defender in Barcelona's squad?,Jordi Alba is another defender for Barcelona.,Jordi,Jordi
+How many goals has Jordi Alba scored for Barcelona?,Jordi Alba has scored 8 goals.,8,8
+How many caps  does Jordi Alba have?,Jordi Alba has 197 caps.,197,197
+When was Jordi Alba date of birth?,"Jordi Alba was date of birth on March 21, 1989.","March 21, 1989","March 21, 1989"
+What jersey number does Jordi Alba wear?,Jordi Alba wears jersey number 18.,18,18
+How height is Jordi Alba?,Jordi Alba is 1.70 meters height.,1.70m,1.70m
+Who is another defender in Barcelona's squad?,Sergi Roberto is another defender for Barcelona.,Sergi,Sergi
+How many goals has Sergi Roberto scored for Barcelona?,Sergi Roberto has scored 1 goal.,1,1
+How many caps  does Sergi Roberto have?,Sergi Roberto has 154 caps.,154,154
+When was Sergi Roberto date of birth?,"Sergi Roberto was date of birth on February 7, 1992.","February 7, 1992","February 7, 1992"
+What jersey number does Sergi Roberto wear?,Sergi Roberto wears jersey number 20.,20,20
+How height is Sergi Roberto?,Sergi Roberto is 1.78 meters height.,1.78m,1.78m
+Who is another midfielder in Barcelona's squad?,Carles Alena is another midfielder for Barcelona.,Carles,Carles
+How many goals has Carles Alena scored for Barcelona?,Carles Alena has scored 2 goals.,2,2
+How many caps  does Carles Alena have?,Carles Alena has 20 caps.,20,20
+When was Carles Alena date of birth?,"Carles Alena was date of birth on January 5, 1998.","January 5, 1998","January 5, 1998"
+What jersey number does Carles Alena wear?,Carles Alena wears jersey number 21.,21,21
+How height is Carles Alena?,Carles Alena is 1.80 meters height.,1.80m,1.80m
+Who is another midfielder in Barcelona's squad?,Arturo Vidal is another midfielder for Barcelona.,Arturo,Arturo
+How many goals has Arturo Vidal scored for Barcelona?,Arturo Vidal has scored 3 goals.,3,3
+How many caps  does Arturo Vidal have?,Arturo Vidal has 33 caps.,33,33
+When was Arturo Vidal date of birth?,"Arturo Vidal was date of birth on May 22, 1987.","May 22, 1987","May 22, 1987"
+What jersey number does Arturo Vidal wear?,Arturo Vidal wears jersey number 22.,22,22
+How height is Arturo Vidal?,Arturo Vidal is 1.80 meters height.,1.80m,1.80m
+Who is another defender in Barcelona's squad?,Samuel Umtiti is another defender for Barcelona.,Samuel,Samuel
+How many goals has Samuel Umtiti scored for Barcelona?,Samuel Umtiti has scored 2 goals.,2,2
+How many caps  does Samuel Umtiti have?,Samuel Umtiti has 63 caps.,63,63
+When was Samuel Umtiti date of birth?,"Samuel Umtiti was date of birth on November 14, 1993.","November 14, 1993","November 14, 1993"
+What jersey number does Samuel Umtiti wear?,Samuel Umtiti wears jersey number 23.,23,23
+How height is Samuel Umtiti?,Samuel Umtiti is 1.82 meters height.,1.82m,1.82m
+What is the name of Bayern Munich's home ground?,Bayern Munich's home ground is the Allianz Arena.,Allianz,Allianz
+What is the capacity of the Allianz Arena?,"The Allianz Arena has a capacity of 75,000.","75,000","75,000"
+Who is the chairman of Bayern Munich?,The chairman of Bayern Munich is Karl-Heinz Rummenigge.,Karl-Heinz,Karl-Heinz
+Who is the head coach of Bayern Munich?,The head coach of Bayern Munich is Niko Kova_.,Niko,Niko
+Which player plays as a goalkeeper for Bayern Munich?,Manuel Neuer is a goalkeeper for Bayern Munich.,Manuel,Manuel
+What is Manuel Neuer's position on the field?,Manuel Neuer plays as a goalkeeper.,Goalkeeper,Goalkeeper
+How many goals has Manuel Neuer scored for Bayern Munich?,Manuel Neuer has scored 0 goals.,0,0
+How many caps  does Manuel Neuer have?,Manuel Neuer has 216 caps.,216,216
+When was Manuel Neuer date of birth?,"Manuel Neuer was date of birth on March 27, 1986.","March 27, 1986","March 27, 1986"
+What jersey number does Manuel Neuer wear?,Manuel Neuer wears jersey number 1.,1,1
+How height is Manuel Neuer?,Manuel Neuer is 1.93 meters height.,1.93,1.93
+Who is another defender in Bayern Munich's squad?,Niklas Sule is another defender for Bayern Munich.,Niklas,Niklas
+How many goals has Niklas Sule scored for Bayern Munich?,Niklas Sule has scored 4 goals.,4,4
+How many caps  does Niklas Sule have?,Niklas Sule has 58 caps.,58,58
+When was Niklas Sule date of birth?,"Niklas Sule was date of birth on September 3, 1995.","September 3, 1995","September 3, 1995"
+What jersey number does Niklas Sule wear?,Niklas Sule wears jersey number 4.,4,4
+How height is Niklas Sule?,Niklas Sule is 1.95 meters height.,1.95,1.95
+Who is a midfielder in Bayern Munich's squad with a notable number of goals?,Thiago is a midfielder in Bayern Munich's squad with 14 goals.,Thiago,Thiago
+How many caps  does Thiago have?,Thiago has 126 caps.,126,126
+When was Thiago date of birth?,"Thiago was date of birth on April 11, 1991.","April 11, 1991","April 11, 1991"
+What jersey number does Thiago wear?,Thiago wears jersey number 6.,6,6
+How height is Thiago?,Thiago is 1.74 meters height.,1.74,1.74
+Who is another defender in Bayern Munich's squad with a significant number of caps?,Javi Martinez is another defender in Bayern Munich's squad with 130 caps.,Javi,Javi
+How many goals has Javi Martinez scored for Bayern Munich?,Javi Martinez has scored 9 goals.,9,9
+When was Javi Martinez date of birth?,"Javi Martinez was date of birth on September 2, 1988.","September 2, 1988","September 2, 1988"
+What jersey number does Javi Martinez wear?,Javi Martinez wears jersey number 8.,8,8
+How height is Javi Martinez?,Javi Martinez is 1.90 meters height.,1.9,1.9
+Who is a forward in the Bayern Munich squad with a high number of goals?,Robert Lewandowski is a forward in the Bayern Munich squad with 128 goals.,Robert,Robert
+How many caps  does Robert Lewandowski have?,Robert Lewandowski has 159 caps.,159,159
+When was Robert Lewandowski date of birth?,"Robert Lewandowski was date of birth on August 21, 1988.","August 21, 1988","August 21, 1988"
+What jersey number does Robert Lewandowski wear?,Robert Lewandowski wears jersey number 9.,9,9
+How height is Robert Lewandowski?,Robert Lewandowski is 1.85 meters height.,1.85,1.85
+Who is another defender in Bayern Munich's squad?,Jerome Boateng is another defender for Bayern Munich.,Jerome,Jerome
+How many goals has Jerome Boateng scored for Bayern Munich?,Jerome Boateng has scored 4 goals.,4,4
+How many caps  does Jerome Boateng have?,Jerome Boateng has 176 caps.,176,176
+When was Jerome Boateng date of birth?,"Jerome Boateng was date of birth on September 3, 1988.","September 3, 1988","September 3, 1988"
+What jersey number does Jerome Boateng wear?,Jerome Boateng wears jersey number 17.,17,17
+How height is Jerome Boateng?,Jerome Boateng is 1.92 meters height.,1.92,1.92
+Who is another midfielder in Bayern Munich's squad?,Leon Goretzka is another midfielder for Bayern Munich.,Leon,Leon
+How many goals has Leon Goretzka scored for Bayern Munich?,Leon Goretzka has scored 8 goals.,8,8
+How many caps  does Leon Goretzka have?,Leon Goretzka has 30 caps.,30,30
+When was Leon Goretzka date of birth?,"Leon Goretzka was date of birth on February 6, 1995.","February 6, 1995","February 6, 1995"
+What jersey number does Leon Goretzka wear?,Leon Goretzka wears jersey number 18.,18,18
+How height is Leon Goretzka?,Leon Goretzka is 1.89 meters height.,1.89,1.89
+Who is a midfielder in Bayern Munich's squad with a high number of caps?,Thiago is a midfielder in Bayern Munich's squad with 126 caps.,Thiago,Thiago
+How many goals has Thiago scored for Bayern Munich?,Thiago has scored 14 goals.,14,14
+When was Thiago date of birth?,"Thiago was date of birth on April 11, 1991.","April 11, 1991","April 11, 1991"
+What jersey number does Thiago wear?,Thiago wears jersey number 6.,6,6
+How height is Thiago?,Thiago is 1.74 meters height.,1.74,1.74
+Who is another midfielder in Bayern Munich's squad?,Javi Martinez is another midfielder for Bayern Munich.,Javi,Javi
+How many goals has Javi Martinez scored for Bayern Munich?,Javi Martinez has scored 9 goals.,9,9
+How many caps  does Javi Martinez have?,Javi Martinez has 130 caps.,130,130
+When was Javi Martinez date of birth?,"Javi Martinez was date of birth on September 2, 1988.","September 2, 1988","September 2, 1988"
+What jersey number does Javi Martinez wear?,Javi Martinez wears jersey number 8.,8,8
+How height is Javi Martinez?,Javi Martinez is 1.90 meters height.,1.9,1.9
+Who is another forward in Bayern Munich's squad with a high number of goals?,Robert Lewandowski is another forward in Bayern Munich's squad with 128 goals.,Robert,Robert
+How many caps  does Robert Lewandowski have?,Robert Lewandowski has 159 caps.,159,159
+When was Robert Lewandowski date of birth?,"Robert Lewandowski was date of birth on August 21, 1988.","August 21, 1988","August 21, 1988"
+What jersey number does Robert Lewandowski wear?,Robert Lewandowski wears jersey number 9.,9,9
+How height is Robert Lewandowski?,Robert Lewandowski is 1.85 meters height.,1.85,1.85
+Who is a midfielder in Bayern Munich's squad with a notable number of goals?,Kingsley Coman is a midfielder in Bayern Munich's squad with 9 goals.,Kingsley,Kingsley
+How many caps  does Kingsley Coman have?,Kingsley Coman has 42 caps.,42,42
+When was Kingsley Coman date of birth?,"Kingsley Coman was date of birth on June 13, 1996.","June 13, 1996","June 13, 1996"
+What jersey number does Kingsley Coman wear?,Kingsley Coman wears jersey number 29.,29,29
+How height is Kingsley Coman?,Kingsley Coman is 1.79 meters height.,1.79m,1.79m
+Who is another defender in Bayern Munich's squad?,Joshua Kimmich is another defender for Bayern Munich.,Joshua,Joshua
+How many goals has Joshua Kimmich scored for Bayern Munich?,Joshua Kimmich has scored 9 goals.,9,9
+How many caps  does Joshua Kimmich have?,Joshua Kimmich has 113 caps.,113,113
+When was Joshua Kimmich date of birth?,"Joshua Kimmich was date of birth on February 8, 1995.","February 8, 1995","February 8, 1995"
+What jersey number does Joshua Kimmich wear?,Joshua Kimmich wears jersey number 32.,32,32
+How height is Joshua Kimmich?,Joshua Kimmich is 1.76 meters height.,1.76m,1.76m
+Who is another midfielder in Bayern Munich's squad with notable caps?,Thiago is another midfielder in Bayern Munich's squad with 126 caps.,Thiago,Thiago
+How many goals has Thiago scored for Bayern Munich?,Thiago has scored 14 goals.,14,14
+When was Thiago date of birth?,"Thiago was date of birth on April 11, 1991.","April 11, 1991","April 11, 1991"
+What jersey number does Thiago wear?,Thiago wears jersey number 6.,6,6
+How height is Thiago?,Thiago is 1.74 meters height.,1.74m,1.74m
+Who is another midfielder in Bayern Munich's squad?,Renato Sanches is another midfielder for Bayern Munich.,Renato,Renato
+How many goals has Renato Sanches scored for Bayern Munich?,Renato Sanches has scored 1 goal.,1,1
+How many caps  does Renato Sanches have?,Renato Sanches has 34 caps.,34,34
+When was Renato Sanches date of birth?,"Renato Sanches was date of birth on August 18, 1997.","August 18, 1997","August 18, 1997"
+What jersey number does Renato Sanches wear?,Renato Sanches wears jersey number 35.,35,35
+How height is Renato Sanches?,Renato Sanches is 1.76 meters height.,1.76m,1.76m
+What is the name of Borussia Dortmund's home ground?,Borussia Dortmund's home ground is the Westfalenstadion.,Westfalenstadion,Westfalenstadion
+What is the capacity of the Westfalenstadion?,"The Westfalenstadion has a capacity of 81,365.","81,365","81,365"
+Who is the chairman of Borussia Dortmund?,The chairman of Borussia Dortmund is Hans-Joachim Watzke (CEO).,Hans-Joachim,Hans-Joachim
+Who is the head coach of Borussia Dortmund?,The head coach of Borussia Dortmund is Lucien Favre.,Lucien,Lucien
+Which player plays as a goalkeeper for Borussia Dortmund?,Roman Burki is a goalkeeper for Borussia Dortmund.,Roman,Roman
+What is Roman Burki's position on the field?,Roman Burki plays as a goalkeeper.,Goalkeeper,Goalkeeper
+How many goals has Roman Burki scored for Borussia Dortmund?,Roman Burki has scored 0 goals.,0,0
+How many caps  does Roman Burki have?,Roman Burki has 118 caps.,118,118
+When was Roman Burki date of birth?,"Roman Burki was date of birth on November 14, 1990.","November 14, 1990","November 14, 1990"
+What jersey number does Roman Burki wear?,Roman Burki wears jersey number 1.,1,1
+How height is Roman Burki?,Roman Burki is 1.88 meters height.,1.88m,1.88m
+Who is another defender in Borussia Dortmund's squad?,Dan-Axel Zagadou is another defender for Borussia Dortmund.,Dan-Axel,Dan-Axel
+How many goals has Dan-Axel Zagadou scored for Borussia Dortmund?,Dan-Axel Zagadou has scored 3 goals.,3,3
+How many caps  does Dan-Axel Zagadou have?,Dan-Axel Zagadou has 28 caps.,28,28
+When was Dan-Axel Zagadou date of birth?,"Dan-Axel Zagadou was date of birth on June 3, 1999.","June 3, 1999","June 3, 1999"
+What jersey number does Dan-Axel Zagadou wear?,Dan-Axel Zagadou wears jersey number 2.,2,2
+How height is Dan-Axel Zagadou?,Dan-Axel Zagadou is 1.96 meters height.,1.96m,1.96m
+Who is another defender in Borussia Dortmund's squad?,Abdou Diallo is another defender for Borussia Dortmund.,Abdou,Abdou
+How many goals has Abdou Diallo scored for Borussia Dortmund?,Abdou Diallo has scored 1 goal.,1,1
+How many caps  does Abdou Diallo have?,Abdou Diallo has 28 caps.,28,28
+When was Abdou Diallo date of birth?,"Abdou Diallo was date of birth on May 4, 1996.","May 4, 1996","May 4, 1996"
+What jersey number does Abdou Diallo wear?,Abdou Diallo wears jersey number 4.,4,4
+How height is Abdou Diallo?,Abdou Diallo is 1.86 meters height.,1.86m,1.86m
+Who is a midfielder in Borussia Dortmund's squad?,Thomas Delaney is a midfielder for Borussia Dortmund.,Thomas,Thomas
+How many goals has Thomas Delaney scored for Borussia Dortmund?,Thomas Delaney has scored 3 goals.,3,3
+How many caps  does Thomas Delaney have?,Thomas Delaney has 30 caps.,30,30
+When was Thomas Delaney date of birth?,"Thomas Delaney was date of birth on September 3, 1991.","September 3, 1991","September 3, 1991"
+What jersey number does Thomas Delaney wear?,Thomas Delaney wears jersey number 6.,6,6
+How height is Thomas Delaney?,Thomas Delaney is 1.82 meters height.,1.82m,1.82m
+Who is another midfielder in Borussia Dortmund's squad with notable goals?,Jadon Sancho is another midfielder in Borussia Dortmund's squad with 13 goals.,Jadon,Jadon
+How many caps  does Jadon Sancho have?,Jadon Sancho has 46 caps.,46,46
+When was Jadon Sancho date of birth?,"Jadon Sancho was date of birth on March 25, 2000.","March 25, 2000","March 25, 2000"
+What jersey number does Jadon Sancho wear?,Jadon Sancho wears jersey number 7.,7,7
+How height is Jadon Sancho?,Jadon Sancho is 1.80 meters height.,1.80m,1.80m
+Who is another midfielder in Borussia Dortmund's squad?,Mahmoud Dahoud is another midfielder for Borussia Dortmund.,Mahmoud,Mahmoud
+How many goals has Mahmoud Dahoud scored for Borussia Dortmund?,Mahmoud Dahoud has scored 1 goal.,1,1
+How many caps  does Mahmoud Dahoud have?,Mahmoud Dahoud has 37 caps.,37,37
+When was Mahmoud Dahoud date of birth?,"Mahmoud Dahoud was date of birth on January 1, 1996.","January 1, 1996","January 1, 1996"
+What jersey number does Mahmoud Dahoud wear?,Mahmoud Dahoud wears jersey number 8.,8,8
+How height is Mahmoud Dahoud?,Mahmoud Dahoud is 1.77 meters height.,1.77m,1.77m
+Who is a forward in Borussia Dortmund's squad with a notable number of goals?,Marco Reus is a forward in Borussia Dortmund's squad with 80 goals.,Marco,Marco
+How many caps  does Marco Reus have?,Marco Reus has 163 caps.,163,163
+When was Marco Reus date of birth?,"Marco Reus was date of birth on May 31, 1989.","May 31, 1989","May 31, 1989"
+What jersey number does Marco Reus wear?,Marco Reus wears jersey number 11.,11,11
+How height is Marco Reus?,Marco Reus is 1.80 meters height.,1.80m,1.80m
+Who is another defender in Borussia Dortmund's squad?,Raphael Guerreiro is another defender for Borussia Dortmund.,Raphael,Raphael
+How many goals has Raphael Guerreiro scored for Borussia Dortmund?,Raphael Guerreiro has scored 9 goals.,9,9
+How many caps  does Raphael Guerreiro have?,Raphael Guerreiro has 56 caps.,56,56
+When was Raphael Guerreiro date of birth?,"Raphael Guerreiro was date of birth on December 22, 1993.","December 22, 1993","December 22, 1993"
+What jersey number does Raphael Guerreiro wear?,Raphael Guerreiro wears jersey number 13.,13,13
+How height is Raphael Guerreiro?,Raphael Guerreiro is 1.70 meters height.,1.70m,1.70m
+Who is another defender in Borussia Dortmund's squad?,Manuel Akanji is another defender for Borussia Dortmund.,Manuel,Manuel
+How many goals has Manuel Akanji scored for Borussia Dortmund?,Manuel Akanji has scored 1 goal.,1,1
+How many caps  does Manuel Akanji have?,Manuel Akanji has 28 caps.,28,28
+When was Manuel Akanji date of birth?,"Manuel Akanji was date of birth on July 19, 1995.","July 19, 1995","July 19, 1995"
+What jersey number does Manuel Akanji wear?,Manuel Akanji wears jersey number 16.,16,16
+How height is Manuel Akanji?,Manuel Akanji is 1.86 meters height.,1.86m,1.86m
+Who is another forward in Borussia Dortmund's squad with notable goals?,Maximilian Philipp is another forward in Borussia Dortmund's squad with 10 goals.,Maximilian,Maximilian
+How many caps  does Maximilian Philipp have?,Maximilian Philipp has 35 caps.,35,35
+When was Maximilian Philipp date of birth?,"Maximilian Philipp was date of birth on March 1, 1994.","March 1, 1994","March 1, 1994"
+What jersey number does Maximilian Philipp wear?,Maximilian Philipp wears jersey number 20.,20,20
+How height is Maximilian Philipp?,Maximilian Philipp is 1.83 meters height.,1.83m,1.83m
+Who is another defender in Borussia Dortmund's squad?,Lukasz Piszczek is another defender for Borussia Dortmund.,Lukasz,Lukasz
+How many goals has Lukasz Piszczek scored for Borussia Dortmund?,Lukasz Piszczek has scored 15 goals.,15,15
+How many caps  does Lukasz Piszczek have?,Lukasz Piszczek has 224 caps.,224,224
+When was Lukasz Piszczek date of birth?,"Lukasz Piszczek was date of birth on June 3, 1985.","June 3, 1985","June 3, 1985"
+What jersey number does Lukasz Piszczek wear?,Lukasz Piszczek wears jersey number 26.,26,26
+How height is Lukasz Piszczek?,Lukasz Piszczek is 1.84 meters height.,1.84m,1.84m
+Who is another forward in Borussia Dortmund's squad?,Marius Wolf is another forward for Borussia Dortmund.,Marius,Marius
+How many goals has Marius Wolf scored for Borussia Dortmund?,Marius Wolf has scored 1 goal.,1,1
+How many caps  does Marius Wolf have?,Marius Wolf has 11 caps.,11,11
+When was Marius Wolf date of birth?,"Marius Wolf was date of birth on May 27, 1995.","May 27, 1995","May 27, 1995"
+What jersey number does Marius Wolf wear?,Marius Wolf wears jersey number 27.,27,27
+How height is Marius Wolf?,Marius Wolf is 1.88 meters height.,1.88m,1.88m
+Who is another midfielder in Borussia Dortmund's squad?,Axel Witsel is another midfielder for Borussia Dortmund.,Axel,Axel
+How many goals has Axel Witsel scored for Borussia Dortmund?,Axel Witsel has scored 4 goals.,4,4
+How many caps  does Axel Witsel have?,Axel Witsel has 33 caps.,33,33
+When was Axel Witsel date of birth?,"Axel Witsel was date of birth on January 12, 1989.","January 12, 1989","January 12, 1989"
+What jersey number does Axel Witsel wear?,Axel Witsel wears jersey number 28.,28,28
+How height is Axel Witsel?,Axel Witsel is 1.86 meters height.,1.86m,1.86m
+Who is another defender in Borussia Dortmund's squad?,Marcel Schmelzer is another defender for Borussia Dortmund.,"January 22, 1988","January 22, 1988"
+How many goals has Marcel Schmelzer scored for Borussia Dortmund?,Marcel Schmelzer has scored 2 goals.,29,29
+How many caps  does Marcel Schmelzer have?,Marcel Schmelzer has 251 caps.,2,2
+When was Marcel Schmelzer date of birth?,"Marcel Schmelzer was date of birth on January 22, 1988.",251,251
+What jersey number does Marcel Schmelzer wear?,Marcel Schmelzer wears jersey number 29.,1.80m,1.80m
+How height is Marcel Schmelzer?,Marcel Schmelzer is 1.80 meters height.,Julian,Julian
+Who is a midfielder in Borussia Dortmund's squad with notable caps?,Julian Weigl is a midfielder in Borussia Dortmund's squad with 95 caps.,2,2
+How many goals has Julian Weigl scored for Borussia Dortmund?,Julian Weigl has scored 2 goals.,95,95
+When was Julian Weigl date of birth?,"Julian Weigl was date of birth on September 8, 1995.","September 8, 1995","September 8, 1995"
+What jersey number does Julian Weigl wear?,Julian Weigl wears jersey number 33.,33,33
+How height is Julian Weigl?,Julian Weigl is 1.87 meters height.,1.87m,1.87m
+Who is another forward in Borussia Dortmund's squad with notable goals?,Shinji Kagawa is another forward in Borussia Dortmund's squad with 20 goals.,Shinji,Shinji
+How many caps  does Shinji Kagawa have?,Shinji Kagawa has 99 caps.,99,99
+When was Shinji Kagawa date of birth?,"Shinji Kagawa was date of birth on March 17, 1989.","March 17, 1989","March 17, 1989"
+What jersey number does Shinji Kagawa wear?,Shinji Kagawa wears jersey number 36.,36,36
+How height is Shinji Kagawa?,Shinji Kagawa is 1.75 meters height.,1.75m,1.75m
+Who is another midfielder in Borussia Dortmund's squad with notable caps?,Sebastian Rode is another midfielder in Borussia Dortmund's squad with 14 caps.,Sebastian,Sebastian
+How many goals has Sebastian Rode scored for Borussia Dortmund?,Sebastian Rode has scored 1 goal.,1,1
+When was Sebastian Rode date of birth?,"Sebastian Rode was date of birth on October 11, 1990.",14,14
+What jersey number does Sebastian Rode wear?,Sebastian Rode wears jersey number 37.,"October 11, 1990","October 11, 1990"
+How height is Sebastian Rode?,Sebastian Rode is 1.79 meters height.,37,37
+Who is another midfielder in Borussia Dortmund's squad with notable goals?,Andre Schurrle is another midfielder in Borussia Dortmund's squad with 3 goals.,1.79m,1.79m
+How many caps  does Andre Schurrle have?,Andre Schurrle has 33 caps.,Andre,Andre
+When was Andre Schurrle date of birth?,"Andre Schurrle was date of birth on November 6, 1990.",33,33
+What jersey number does Andre Schurrle wear?,Andre Schurrle wears jersey number 28.,"November 6, 1990","November 6, 1990"
+What is the name of Chelsea's home ground?,Chelsea's home ground is Stamford Bridge.,28,28
+What is the capacity of Stamford Bridge?,"Stamford Bridge has a capacity of 40,853.",Stamford Bridge,Stamford Bridge
+Who is the chairman of Chelsea?,The chairman of Chelsea is Bruce Buck.,"40,853","40,853"
+Who is the head coach of Chelsea?,The head coach of Chelsea is Frank Lampard.,Bruce,Bruce
+Which player plays as a goalkeeper for Chelsea?,Kepa Arrizabalaga is a goalkeeper for Chelsea.,Frank,Frank
+What is Kepa Arrizabalaga's position on the field?,Kepa Arrizabalaga plays as a goalkeeper.,Kepa,Kepa
+How many goals has Kepa Arrizabalaga scored for Chelsea?,Kepa Arrizabalaga has scored 0 goals.,0,0
+How many caps  does Kepa Arrizabalaga have?,Kepa Arrizabalaga has 36 caps.,36,36
+When was Kepa Arrizabalaga date of birth?,"Kepa Arrizabalaga was date of birth on October 3, 1994.","October 3, 1994","October 3, 1994"
+What jersey number does Kepa Arrizabalaga wear?,Kepa Arrizabalaga wears jersey number 1.,1,1
+How height is Kepa Arrizabalaga?,Kepa Arrizabalaga is 1.86 meters height.,1.86m,1.86m
+Who is another defender in Chelsea's squad?,Antonio Rudiger is another defender for Chelsea.,Antonio,Antonio
+How many goals has Antonio Rudiger scored for Chelsea?,Antonio Rudiger has scored 3 goals.,3,3
+How many caps  does Antonio Rudiger have?,Antonio Rudiger has 60 caps.,60,60
+When was Antonio Rudiger date of birth?,"Antonio Rudiger was date of birth on March 3, 1993.","March 3, 1993","March 3, 1993"
+What jersey number does Antonio Rudiger wear?,Antonio Rudiger wears jersey number 2.,2,2
+How height is Antonio Rudiger?,Antonio Rudiger is 1.90 meters height.,1.90m,1.90m
+Who is another defender in Chelsea's squad?,Marcos Alonso is another defender for Chelsea.,Marcos,Marcos
+How many goals has Marcos Alonso scored for Chelsea?,Marcos Alonso has scored 15 goals.,15,15
+How many caps  does Marcos Alonso have?,Marcos Alonso has 95 caps.,95,95
+When was Marcos Alonso date of birth?,"Marcos Alonso was date of birth on December 28, 1990.","December 28, 1990","December 28, 1990"
+What jersey number does Marcos Alonso wear?,Marcos Alonso wears jersey number 3.,3,3
+How height is Marcos Alonso?,Marcos Alonso is 1.88 meters height.,1.88m,1.88m
+Who is a midfielder in Chelsea's squad?,Jorginho is a midfielder for Chelsea.,Jorginho,Jorginho
+How many goals has Jorginho scored for Chelsea?,Jorginho has scored 2 goals.,2,2
+How many caps  does Jorginho have?,Jorginho has 37 caps.,37,37
+When was Jorginho date of birth?,"Jorginho was date of birth on December 20, 1991.","December 20, 1991","December 20, 1991"
+What jersey number does Jorginho wear?,Jorginho wears jersey number 5.,5,5
+How height is Jorginho?,Jorginho is 1.80 meters height.,1.80m,1.80m
+Who is another defender in Chelsea's squad?,Kurt Zouma is another defender for Chelsea.,Kurt,Kurt
+How many goals has Kurt Zouma scored for Chelsea?,Kurt Zouma has scored 1 goal.,1,1
+How many caps  does Kurt Zouma have?,Kurt Zouma has 47 caps.,47,47
+When was Kurt Zouma date of birth?,"Kurt Zouma was date of birth on October 27, 1994.","October 27, 1994","October 27, 1994"
+What jersey number does Kurt Zouma wear?,Kurt Zouma wears jersey number 6.,6,6
+How height is Kurt Zouma?,Kurt Zouma is 1.90 meters height.,1.90m,1.90m
+Who is another midfielder in Chelsea's squad?,N'Golo Kante is a midfielder for Chelsea.,N'Golo,N'Golo
+How many goals has N'Golo Kante scored for Chelsea?,N'Golo Kante has scored 6 goals.,6,6
+How many caps  does N'Golo Kante have?,N'Golo Kante has 105 caps.,105,105
+When was N'Golo Kante date of birth?,"N'Golo Kante was date of birth on March 29, 1991.","March 29, 1991","March 29, 1991"
+What jersey number does N'Golo Kante wear?,N'Golo Kante wears jersey number 7.,7,7
+How height is N'Golo Kante?,N'Golo Kante is 1.68 meters height.,1.68m,1.68m
+Who is another midfielder in Chelsea's squad?,Ross Barkley is another midfielder for Chelsea.,Ross,Ross
+How many goals has Ross Barkley scored for Chelsea?,Ross Barkley has scored 3 goals.,3,3
+How many caps  does Ross Barkley have?,Ross Barkley has 29 caps.,29,29
+When was Ross Barkley date of birth?,"Ross Barkley was date of birth on December 5, 1993.","December 5, 1993","December 5, 1993"
+What jersey number does Ross Barkley wear?,Ross Barkley wears jersey number 8.,8,8
+How height is Ross Barkley?,Ross Barkley is 1.85 meters height.,1.85m,1.85m
+Who is a forward in Chelsea's squad with a notable number of goals?,Pedro is a forward in Chelsea's squad with 28 goals.,Pedro,Pedro
+How many caps  does Pedro have?,Pedro has 126 caps.,126,126
+When was Pedro date of birth?,"Pedro was date of birth on July 28, 1987.","July 28, 1987","July 28, 1987"
+What jersey number does Pedro wear?,Pedro wears jersey number 11.,11,11
+How height is Pedro?,Pedro is 1.69 meters height.,1.69m,1.69m
+Who is another midfielder in Chelsea's squad?,Ruben Loftus-Cheek is another midfielder for Chelsea.,Ruben,Ruben
+How many goals has Ruben Loftus-Cheek scored for Chelsea?,Ruben Loftus-Cheek has scored 7 goals.,7,7
+How many caps  does Ruben Loftus-Cheek have?,Ruben Loftus-Cheek has 46 caps.,46,46
+When was Ruben Loftus-Cheek date of birth?,"Ruben Loftus-Cheek was date of birth on January 23, 1996.","January 23, 1996","January 23, 1996"
+What jersey number does Ruben Loftus-Cheek wear?,Ruben Loftus-Cheek wears jersey number 12.,12,12
+How height is Ruben Loftus-Cheek?,Ruben Loftus-Cheek is 1.91 meters height.,1.91m,1.91m
+Who is another forward in Chelsea's squad with notable goals?,Olivier Giroud is another forward in Chelsea's squad with 5 goals.,Olivier,Olivier
+How many caps  does Olivier Giroud have?,Olivier Giroud has 40 caps.,40,40
+When was Olivier Giroud date of birth?,"Olivier Giroud was date of birth on September 30, 1986.","September 30, 1986","September 30, 1986"
+What jersey number does Olivier Giroud wear?,Olivier Giroud wears jersey number 18.,18,18
+How height is Olivier Giroud?,Olivier Giroud is 1.93 meters height.,1.93m,1.93m
+Who is a forward in Chelsea's squad with notable caps?,Callum Hudson-Odoi is a forward in Chelsea's squad with 12 caps.,Callum,Callum
+How many goals has Callum Hudson-Odoi scored for Chelsea?,Callum Hudson-Odoi has scored 0 goals.,0,0
+When was Callum Hudson-Odoi date of birth?,"Callum Hudson-Odoi was date of birth on November 7, 2000.","November 7, 2000","November 7, 2000"
+What jersey number does Callum Hudson-Odoi wear?,Callum Hudson-Odoi wears jersey number 20.,20,20
+How height is Callum Hudson-Odoi?,Callum Hudson-Odoi is 1.77 meters height.,1.77m,1.77m
+Who is another defender in Chelsea's squad?,Davide Zappacosta is another defender for Chelsea.,Davide,Davide
+How many goals has Davide Zappacosta scored for Chelsea?,Davide Zappacosta has scored 1 goal.,1,1
+How many caps  does Davide Zappacosta have?,Davide Zappacosta has 26 caps.,26,26
+When was Davide Zappacosta date of birth?,"Davide Zappacosta was date of birth on June 11, 1992.","June 11, 1992","June 11, 1992"
+What jersey number does Davide Zappacosta wear?,Davide Zappacosta wears jersey number 21.,21,21
+How height is Davide Zappacosta?,Davide Zappacosta is 1.82 meters height.,1.82m,1.82m
+Who is a forward in Chelsea's squad with notable goals?,Willian is a forward in Chelsea's squad with 28 goals.,28,28
+How many caps  does Willian have?,Willian has 198 caps.,198,198
+When was Willian date of birth?,"Willian was date of birth on August 9, 1988.","August 9, 1988","August 9, 1988"
+What jersey number does Willian wear?,Willian wears jersey number 22.,22,22
+How height is Willian?,Willian is 1.75 meters height.,1.75m,1.75m
+Who is another forward in Chelsea's squad?,Michy Batshuayi is another forward for Chelsea.,Michy,Michy
+How many goals has Michy Batshuayi scored for Chelsea?,Michy Batshuayi has scored 7 goals.,7,7
+How many caps  does Michy Batshuayi have?,Michy Batshuayi has 32 caps.,32,32
+When was Michy Batshuayi date of birth?,"Michy Batshuayi was date of birth on October 2, 1993.","October 2, 1993","October 2, 1993"
+What jersey number does Michy Batshuayi wear?,Michy Batshuayi wears jersey number 23.,23,23
+How height is Michy Batshuayi?,Michy Batshuayi is 1.85 meters height.,1.85m,1.85m
+Who is another defender in Chelsea's squad?,Andreas Christensen is another defender for Chelsea.,Andreas,Andreas
+How many goals has Andreas Christensen scored for Chelsea?,Andreas Christensen has scored 0 goals.,0,0
+How many caps  does Andreas Christensen have?,Andreas Christensen has 36 caps.,36,36
+When was Andreas Christensen date of birth?,"Andreas Christensen was date of birth on April 10, 1996.","April 10, 1996","April 10, 1996"
+What jersey number does Andreas Christensen wear?,Andreas Christensen wears jersey number 27.,27,27
+How height is Andreas Christensen?,Andreas Christensen is 1.88 meters height.,1.88m,1.88m
+Who is another defender in Chelsea's squad?,Cesar Azpilicueta is another defender for Chelsea.,Cesar,Cesar
+How many goals has Cesar Azpilicueta scored for Chelsea?,Cesar Azpilicueta has scored 6 goals.,6,6
+How many caps  does Cesar Azpilicueta have?,Cesar Azpilicueta has 235 caps.,235,235
+When was Cesar Azpilicueta date of birth?,"Cesar Azpilicueta was date of birth on August 28, 1989.","August 28, 1989","August 28, 1989"
+What jersey number does Cesar Azpilicueta wear?,Cesar Azpilicueta wears jersey number 28.,28,28
+How height is Cesar Azpilicueta?,Cesar Azpilicueta is 1.78 meters height.,1.78m,1.78m
+Who is another defender in Chelsea's squad?,David Luiz is another defender for Chelsea.,David,David
+How many goals has David Luiz scored for Chelsea?,David Luiz has scored 5 goals.,5,5
+How many caps  does David Luiz have?,David Luiz has 79 caps.,79,79
+When was David Luiz date of birth?,"David Luiz was date of birth on April 22, 1987.","April 22, 1987","April 22, 1987"
+What jersey number does David Luiz wear?,David Luiz wears jersey number 30.,30,30
+How height is David Luiz?,David Luiz is 1.89 meters height.,1.89m,1.89m
+Who is another defender in Chelsea's squad?,Emerson Palmieri is another defender for Chelsea.,Emerson,Emerson
+How many goals has Emerson Palmieri scored for Chelsea?,Emerson Palmieri has scored 0 goals.,0,0
+How many caps  does Emerson Palmieri have?,Emerson Palmieri has 15 caps.,15,15
+When was Emerson Palmieri date of birth?,"Emerson Palmieri was date of birth on August 3, 1994.","August 3, 1994","August 3, 1994"
+What jersey number does Emerson Palmieri wear?,Emerson Palmieri wears jersey number 33.,33,33
+How height is Emerson Palmieri?,Emerson Palmieri is 1.75 meters height.,1.75m,1.75m
+Who is another midfielder in Chelsea's squad?,Danny Drinkwater is another midfielder for Chelsea.,Danny,Danny
+How many goals has Danny Drinkwater scored for Chelsea?,Danny Drinkwater has scored 1 goal.,1,1
+How many caps  does Danny Drinkwater have?,Danny Drinkwater has 12 caps.,12,12
+What is the name of FC Porto's home ground?,FC Porto's home ground is Estádio do Dragão.,Estádio do Dragão,Estádio do Dragão
+What is the capacity of Estádio do Dragão?,"Estádio do Dragão has a capacity of 50,033.","50,033","50,033"
+Who is the chairman of FC Porto?,The chairman of FC Porto is Jorge Nuno Pinto da Costa.,Jorge,Jorge
+Who is the head coach of FC Porto?,The head coach of FC Porto is Sérgio Conceição.,Sérgio,Sérgio
+Which player plays as a goalkeeper for FC Porto?,Iker Casillas is a goalkeeper for FC Porto.,Iker,Iker
+How many goals has Iker Casillas scored for FC Porto?,Iker Casillas has scored 0 goals.,0,0
+How many caps  does Iker Casillas have?,Iker Casillas has 116 caps.,116,116
+When was Iker Casillas date of birth?,"Iker Casillas was date of birth on May 20, 1981.","May 20, 1981","May 20, 1981"
+What jersey number does Iker Casillas wear?,Iker Casillas wears jersey number 1.,1,1
+How height is Iker Casillas?,Iker Casillas is 1.82 meters height.,1.82m,1.82m
+Who is a forward in FC Porto's squad with a notable number of goals?,Vincent Aboubakar is a forward in FC Porto's squad with 36 goals.,Vincent,Vincent
+How many caps  does Vincent Aboubakar have?,Vincent Aboubakar has 76 caps.,76,76
+When was Vincent Aboubakar date of birth?,"Vincent Aboubakar was date of birth on January 22, 1992.","January 22, 1992","January 22, 1992"
+What jersey number does Vincent Aboubakar wear?,Vincent Aboubakar wears jersey number 9.,9,9
+How height is Vincent Aboubakar?,Vincent Aboubakar is 1.84 meters height.,1.84m,1.84m
+Who is a midfielder in FC Porto's squad?,Oliver Torres is a midfielder for FC Porto.,Oliver,Oliver
+How many goals has Oliver Torres scored for FC Porto?,Oliver Torres has scored 3 goals.,3,3
+How many caps  does Oliver Torres have?,Oliver Torres has 55 caps.,55,55
+When was Oliver Torres date of birth?,"Oliver Torres was date of birth on November 10, 1994.","November 10, 1994","November 10, 1994"
+What jersey number does Oliver Torres wear?,Oliver Torres wears jersey number 10.,10,10
+How height is Oliver Torres?,Oliver Torres is 1.74 meters height.,1.74m,1.74m
+Who is a forward in FC Porto's squad with a notable number of goals?,Moussa Marega is a forward in FC Porto's squad with 33 goals.,Moussa,Moussa
+How many caps  does Moussa Marega have?,Moussa Marega has 66 caps.,66,66
+When was Moussa Marega date of birth?,"Moussa Marega was date of birth on April 14, 1991.","April 14, 1991","April 14, 1991"
+What jersey number does Moussa Marega wear?,Moussa Marega wears jersey number 11.,11,11
+How height is Moussa Marega?,Moussa Marega is 1.83 meters height.,1.83m,1.83m
+Who is another defender in FC Porto's squad?,Wilson Manafa is another defender for FC Porto.,Wilson,Wilson
+How many goals has Wilson Manafa scored for FC Porto?,Wilson Manafa has scored 1 goal.,1,1
+How many caps  does Wilson Manafa have?,Wilson Manafa has 14 caps.,14,14
+When was Wilson Manafa date of birth?,"Wilson Manafa was date of birth on July 23, 1994.","July 23, 1994","July 23, 1994"
+What jersey number does Wilson Manafa wear?,Wilson Manafa wears jersey number 12.,12,12
+How height is Wilson Manafa?,Wilson Manafa is 1.73 meters height.,1.73m,1.73m
+Who is another defender in FC Porto's squad?,Alex Telles is another defender for FC Porto.,Alex,Alex
+How many goals has Alex Telles scored for FC Porto?,Alex Telles has scored 8 goals.,8,8
+How many caps  does Alex Telles have?,Alex Telles has 95 caps.,95,95
+When was Alex Telles date of birth?,"Alex Telles was date of birth on December 15, 1992.","December 15, 1992","December 15, 1992"
+What jersey number does Alex Telles wear?,Alex Telles wears jersey number 13.,13,13
+How height is Alex Telles?,Alex Telles is 1.80 meters height.,1.80m,1.80m
+Who is a forward in FC Porto's squad with a notable number of goals?,Jesus Corona is a forward in FC Porto's squad with 17 goals.,Jesus,Jesus
+How many caps  does Jesus Corona have?,Jesus Corona has 117 caps.,117,117
+When was Jesus Corona date of birth?,"Jesus Corona was date of birth on January 6, 1993.","January 6, 1993","January 6, 1993"
+What jersey number does Jesus Corona wear?,Jesus Corona wears jersey number 17.,17,17
+How height is Jesus Corona?,Jesus Corona is 1.74 meters height.,1.74m,1.74m
+Who is another forward in FC Porto's squad?,Andre Pereira is another forward for FC Porto.,Andre,Andre
+How many goals has Andre Pereira scored for FC Porto?,Andre Pereira has scored 1 goal.,1,1
+How many caps  does Andre Pereira have?,Andre Pereira has 10 caps.,10,10
+When was Andre Pereira date of birth?,"Andre Pereira was date of birth on May 5, 1995.","May 5, 1995","May 5, 1995"
+What jersey number does Andre Pereira wear?,Andre Pereira wears jersey number 21.,21,21
+How height is Andre Pereira?,Andre Pereira is 1.88 meters height.,1.88m,1.88m
+Who is a midfielder in FC Porto's squad with a notable number of goals?,Danilo Pereira is a midfielder in FC Porto's squad with 13 goals.,Danilo,Danilo
+How many caps  does Danilo Pereira have?,Danilo Pereira has 106 caps.,106,106
+When was Danilo Pereira date of birth?,"Danilo Pereira was date of birth on September 9, 1991.","September 9, 1991","September 9, 1991"
+What jersey number does Danilo Pereira wear?,Danilo Pereira wears jersey number 22.,22,22
+How height is Danilo Pereira?,Danilo Pereira is 1.88 meters height.,1.88m,1.88m
+Who is a midfielder in FC Porto's squad with a notable number of goals?,Otavio is a midfielder in FC Porto's squad with 5 goals.,Otavio,Otavio
+How many caps  does Otavio have?,Otavio has 56 caps.,56,56
+When was Otavio date of birth?,"Otavio was date of birth on February 9, 1995.","February 9, 1995","February 9, 1995"
+What jersey number does Otavio wear?,Otavio wears jersey number 25.,25,25
+How height is Otavio?,Otavio is 1.71 meters height.,1.71m,1.71m
+Who is a midfielder in FC Porto's squad with a notable number of goals?,Sergio Oliveira is a midfielder in FC Porto's squad with 7 goals.,Sergio,Sergio
+How many caps  does Sergio Oliveira have?,Sergio Oliveira has 37 caps.,37,37
+When was Sergio Oliveira date of birth?,"Sergio Oliveira was date of birth on June 2, 1992.","June 2, 1992","June 2, 1992"
+What jersey number does Sergio Oliveira wear?,Sergio Oliveira wears jersey number 27.,27,27
+How height is Sergio Oliveira?,Sergio Oliveira is 1.81 meters height.,1.81m,1.81m
+Who is a forward in FC Porto's squad with a notable number of goals?,Soares is a forward in FC Porto's squad with 35 goals.,Soares,Soares
+How many caps  does Soares have?,Soares has 67 caps.,67,67
+When was Soares date of birth?,"Soares was date of birth on January 17, 1991.","January 17, 1991","January 17, 1991"
+What jersey number does Soares wear?,Soares wears jersey number 29.,29,29
+How height is Soares?,Soares is 1.87 meters height.,1.87m,1.87m
+Who is another defender in FC Porto's squad?,Pepe is another defender for FC Porto.,Pepe,Pepe
+How many goals has Pepe scored for FC Porto?,Pepe has scored 2 goals.,2,2
+How many caps  does Pepe have?,Pepe has 12 caps.,12,12
+When was Pepe date of birth?,"Pepe was date of birth on February 26, 1983.","February 26, 1983","February 26, 1983"
+What jersey number does Pepe wear?,Pepe wears jersey number 33.,33,33
+How height is Pepe?,Pepe is 1.87 meters height.,1.87m,1.87m
+Who is a forward in FC Porto's squad with notable caps?,Fernando is a forward in FC Porto's squad with 8 caps.,Fernando,Fernando
+How many goals has Fernando scored for FC Porto?,Fernando has scored 0 goals.,0,0
+When was Fernando date of birth?,"Fernando was date of birth on January 8, 1993.","January 8, 1993","January 8, 1993"
+What jersey number does Fernando wear?,Fernando wears jersey number 37.,37,37
+How height is Fernando?,Fernando is 1.82 meters height.,1.82m,1.82m
+Who is oldest Player,Iker Casillas is oldest player,Iker Casillas,none
+Who is Youngest Player,Alphonso Davies is youngest player,Alphonso Davies,none
+when is the football game,the football game is wednesday at 10am,none,none
+who 's the youngest player on the team \?,"i'm not sure but is it hernâni jorge santos fortes, maybe?",none,none
+portugal win the world cup \?,"no, portugal didn't  win the world cup, francia wins.",none,none
+portugal win the last eurocup \?,yes they won the last europcup,none,none
+what was the final score \?,03-Jan,none,none
+do you think portugal will win the next world cup,i don't think they have a chance of winning,none,none
+is portugal on of the best teams \?,i'd say portugal are within the top 10 of international football teams currently out there,none,none
+how did you like the fifa world cup 2018 \?,i thought it was great because the teams were not what everyone expected this year.,none,none
+who scored the most goals at this years world cup \?,barcelona,none,none
+lionel messi will miss u,who is the best team,none,none
+i think france is the best team,france in the best team,none,none
+france is good but could they have been better \?,they could if they knew how to play.,none,none
+i completely love bayern munich,how the hell like bayern munich?,none,none
+they are enjoyable to watch who do you like to watch on the bayern munich team \?,i like lewandowski because he scores lots of goals. ,none,none
+i agree with this it 's nice to see the world of music that is a great team,"it's nice to see bayern munich, but i think it's better thiago",none,none
+can bayern regain the championship,"for sure, theyll have some competition from bvb but they should pull it off",none,none
+how old is mbappe,he is in his thirtys,none,none
+who 's your favorite player on the team \?,luis suarez,none,none
+who do you think their best player is \?,messi,none,none
+what do you think of luis suarez \?,"i think he's a decent player, but has poor sportsmanship.",none,none
+who is the best player on the italian national men 's team \?,i think ballotelli is,none,none

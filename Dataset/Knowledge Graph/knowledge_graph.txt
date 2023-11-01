@@ -1,0 +1,117 @@
+AC Milan	ground	San Siro
+San Siro	capacity	80,018
+AC Milan	chairman	Paolo Scaroni
+AC Milan	coach	Marco Giampaolo
+AC Milan	has player	Davide Calabria
+Davide Calabria	position	defender
+Davide Calabria	goals	2
+Davide Calabria	caps	66
+Davide Calabria	date of birth	1996-12-06
+Davide Calabria	jersey	2
+Davide Calabria	height	1.77 m
+AC Milan	has player	Giacomo Bonaventura
+Giacomo Bonaventura	position	midfielder
+Giacomo Bonaventura	goals	27
+Giacomo Bonaventura	caps	126
+Giacomo Bonaventura	date of birth	1989-08-22
+Giacomo Bonaventura	jersey	5
+Giacomo Bonaventura	height	1.80 m
+AC Milan	has player	Samu Castillejo
+Samu Castillejo	position	forward
+Samu Castillejo	goals	4
+Samu Castillejo	caps	31
+Samu Castillejo	date of birth	1995-01-18
+Samu Castillejo	jersey	7
+Samu Castillejo	height	1.82 m
+AC Milan	has player	Suso
+Suso	position	forward
+Suso	goals	20
+Suso	caps	110
+Suso	date of birth	1993-11-19
+Suso	jersey	8
+Suso	height	1.77 m
+AC Milan	has player	Hakan Calhanoglu
+Hakan Calhanoglu	position	forward
+Hakan Calhanoglu	goals	9
+Hakan Calhanoglu	caps	67
+Hakan Calhanoglu	date of birth	1994-02-08
+Hakan Calhanoglu	jersey	10
+Hakan Calhanoglu	height	1.78 m
+AC Milan	has player	Fabio Borini
+Fabio Borini	position	forward
+Fabio Borini	goals	2
+Fabio Borini	caps	20
+Fabio Borini	date of birth	1991-03-29
+Fabio Borini	jersey	11
+Fabio Borini	height	1.80 m
+AC Milan	has player	Andrea Conti
+Andrea Conti	position	defender
+Andrea Conti	goals	0
+Andrea Conti	caps	14
+Andrea Conti	date of birth	1994-03-02
+Andrea Conti	jersey	12
+Andrea Conti	height	1.84 m
+AC Milan	has player	Alessio Romagnoli
+Alessio Romagnoli	position	defender
+Alessio Romagnoli	goals	5
+Alessio Romagnoli	caps	121
+Alessio Romagnoli	date of birth	1995-01-13
+Alessio Romagnoli	jersey	13
+Alessio Romagnoli	height	1.88 m
+AC Milan	has player	Krzysztof Piatek
+Krzysztof Piatek	position	forward
+Krzysztof Piatek	goals	9
+Krzysztof Piatek	caps	18
+Krzysztof Piatek	date of birth	1995-07-01
+Krzysztof Piatek	jersey	19
+Krzysztof Piatek	height	1.83 m
+AC Milan	has player	Lucas Biglia
+Lucas Biglia	position	midfielder
+Lucas Biglia	goals	2
+Lucas Biglia	caps	44
+Lucas Biglia	date of birth	1986-01-30
+Gianluigi Donnarumma	youngest	AC Milan
+Lucas Biglia	jersey	21
+Lucas Biglia	height	1.78 m
+AC Milan	has player	Mateo Musacchio
+Mateo Musacchio	position	defender
+Mateo Musacchio	goals	1
+Mateo Musacchio	caps	44
+Mateo Musacchio	date of birth	1990-08-26
+Mateo Musacchio	jersey	22
+Mateo Musacchio	height	1.80 m
+AC Milan	has player	Lucas Paqueta
+Lucas Paqueta	position	midfielder
+Lucas Paqueta	goals	1
+Lucas Paqueta	caps	13
+Lucas Paqueta	date of birth	1997-08-27
+Lucas Paqueta	jersey	39
+Lucas Paqueta	height	1.80 m
+AC Milan	has player	Patrick Cutrone
+Patrick Cutrone	position	forward
+Patrick Cutrone	goals	13
+Patrick Cutrone	caps	63
+Patrick Cutrone	date of birth	1998-01-03
+Patrick Cutrone	jersey	63
+Patrick Cutrone	height	1.83 m
+AC Milan	has player	Ricardo Rodriguez
+Ricardo Rodriguez	position	defender
+Ricardo Rodriguez	goals	1
+Ricardo Rodriguez	caps	69
+Ricardo Rodriguez	date of birth	1992-08-25
+Ricardo Rodriguez	jersey	68
+Ricardo Rodriguez	height	1.80 m
+AC Milan	has player	Gianluigi Donnarumma
+Gianluigi Donnarumma	position	goalkeeper
+Gianluigi Donnarumma	goals	0
+Gianluigi Donnarumma	caps	142
+Gianluigi Donnarumma	date of birth	1999-02-25
+Gianluigi Donnarumma	jersey	99
+Gianluigi Donnarumma	height	1.96 m
+AC Milan	has player	Andre Silva
+Andre Silva	position	forward
+Andre Silva	goals	2
+Andre Silva	caps	24
+Andre Silva	date of birth	1995-11-06
+Andre Silva	jersey	--
+Andre Silva	height	1.84 m
